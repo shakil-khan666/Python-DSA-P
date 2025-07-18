@@ -6,5 +6,7 @@ def count_digit(num):
     return count
 
 result = count_digit(12345)
-print(result)
+print("count ",result)
+
+#time complicity=log(n) karon ei khane loop ase n pojonto 
         
